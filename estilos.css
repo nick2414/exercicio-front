@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(/imagens/double-bubble-dark.png);
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#container{
+    background-color: white;
+    width: 70%;
+    height: auto;
+    border-radius: 9px;
+    padding: 16px;
+    margin: auto;
+    font-style: groove;
+}
+
+h1{
+    color: white;
+   text-transform:uppercase;
+   background-color: black;
+}
+
